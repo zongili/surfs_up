@@ -25,9 +25,13 @@ In summary it is a good idea to open a surf and ice cream shop in Oahu because t
 ### Rain factor:
 We also need to look at the rainy days if any in June and in December. It may be warm in December but the rainy days make a difference for the surfers and ice cream shop. According to wikipedia the following is the rain category. Any prcp rate over 7.6 considered heavy rain. 
 Light rain — when the precipitation rate is < 2.5 mm (0.098 in) per hour
+
 Moderate rain — when the precipitation rate is between 2.5 mm (0.098 in) – 7.6 mm (0.30 in) or 10 mm (0.39 in) per hour[106][107]
+
 Heavy rain — when the precipitation rate is > 7.6 mm (0.30 in) per hour,[106] or between 10 mm (0.39 in) and 50 mm (2.0 in) per hour[107]
+
 Violent rain — when the precipitation rate is > 50 mm (2.0 in) per hour
+
 The below images and queries show us the  rain days in June and December. As expected there are more rainy days in December than June, 15 days compared to 4 days in June. There are moderate and close to heavy rain in December which can be dangerous for surfers.
 
 ![This image shows the june rain](Resources/rainydays_june.PNG)
